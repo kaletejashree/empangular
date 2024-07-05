@@ -1,0 +1,40 @@
+{
+  "employees": [
+    {
+      "id": "703e",
+      "firstName": "Tejashree",
+      "lastName": "Kale",
+      "email": "abc@gmail.com",
+      "dob": "2024-07-01T18:30:00.000Z",
+      "gender": "female",
+      "education": "Graduation",
+      "company": "xyz",
+      "experience": 1,
+      "package": 4
+    },
+    {
+      "id": "4de6",
+      "firstName": "VAIBHAV",
+      "lastName": "KALE",
+      "email": "vk@gmail.com",
+      "dob": "2024-07-03T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduation",
+      "company": "xyzzy",
+      "experience": 10,
+      "package": 30
+    },
+    {
+      "id": "4277",
+      "firstName": "VAIBHAV",
+      "lastName": "KALE",
+      "email": "aa12092002@gmail.com",
+      "dob": "",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "xyz",
+      "experience": 1,
+      "package": 1
+    }
+  ]
+}
